@@ -61,8 +61,7 @@ viewButtons.forEach((button) => {
 const containerEl = document.querySelector(".conte");
 
 const careers = [
-  "MERN Developer",
-  "UI UX Designer",
+  "MERN Stack Developer",
   "Software Engineer",
   "Java Fullstack Developer",
 ];
